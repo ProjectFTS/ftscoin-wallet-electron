@@ -1,0 +1,1 @@
+# ftscoin-wallet-electron
