@@ -33,17 +33,17 @@ This wallet contains the basic functions required to manage your FTSCoin assets:
 ### Download &amp; Run WalletShell
 
 #### Windows:
-1. Download the latest installer here: https://github.com/ftscoin/ftscoin-wallet-electron/releases/latest
+1. Download the latest installer here: https://github.com/ProjectFTS/ftscoin-wallet-electron/releases/latest
 2. Run the installer (`ftscoin-<version>-win-setup.exe`) and follow the installation wizard.
 3. Launch FTSCoin via start menu or desktop shortcut.
 
 #### GNU/Linux (AppImage):
-1. Download latest AppImage bundle here: https://github.com/ftscoin/ftscoin-wallet-electron/releases/latest
+1. Download latest AppImage bundle here: https://github.com/ProjectFTS/ftscoin-wallet-electron/releases/latest
 2. Make it executable, either via GUI file manager or command line, e.g. `chmod +x ftscoin-<version>-linux.AppImage`
 3. Run/execute the file, double click in file manager, or run via shell/command line (See: https://docs.appimage.org/user-guide/run-appimages.html)
 
 #### macOS
-1. Download latest archive here: https://github.com/ftscoin/ftscoin-wallet-electron/releases/latest
+1. Download latest archive here: https://github.com/ProjectFTS/ftscoin-wallet-electron/releases/latest
 2. Extract downloaded zip archived
 3. Run the executable binary (`FTSCoin.app/Contents/MacOs/WalletShell`)
 
@@ -58,11 +58,11 @@ Once you have Node+npm installed:
 # assuming you're building it on GNU/Linux
 # first, download turtle-service binary for each platform
 # from FTSCoin official repo
-# https://github.com/ftscoin/ftscoin/releases
+# https://github.com/ProjectFTS/ftscoin/releases
 # extract the turtle-service executable somewhere
 
 # clone the repo
-$ git clone https://github.com/ftscoin/ftscoin-wallet-electron
+$ git clone https://github.com/ProjectFTS/ftscoin-wallet-electron
 $ cd ftscoin-wallet-electron
 
 # install dependencies
